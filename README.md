@@ -1,4 +1,4 @@
-![](Banner_DataAnalyst.JPEG)
+<img src="https://raw.githubusercontent.com/VictorVM-03/VictorVM-03/main/Banner_DataAnalyst.jpeg" width="100%">
 
 # ¡Hola! Soy Víctor Vázquez 👋
 
