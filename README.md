@@ -1,4 +1,4 @@
-![](Banner_DataAnalyst.jpg)
+![](Banner_DataAnalyst.JPEG)
 
 # ¡Hola! Soy Víctor Vázquez 👋
 
