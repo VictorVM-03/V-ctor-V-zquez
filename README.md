@@ -45,12 +45,6 @@ Actualmente, estoy **transicionando al sector Tech**, combinando mi experiencia 
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de GitHub de VictorVM-03](https://github-readme-stats.vercel.app/api?username=VictorVM-03&show_icons=true&theme=radical)
-![Lenguajes Más Usados por VictorVM-03](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorVM-03&layout=compact&theme=radical)
-
----
 
 ## 📬 ¿Hablamos?
 
